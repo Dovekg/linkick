@@ -9,16 +9,17 @@
             <a href="#" class="js-fh5co-mobile-toggle fh5co-nav-toggle"><i></i></a>
             <a href="#"><img src="/images/linkick-white.png"  height="34px"></a>
         </div>
-        <div class="col-md-6 col-sm-6 text-center fh5co-link-wrap">
+        <div class="col-md-9 col-sm-9 fh5co-link-wrap text-right">
             <ul data-offcanvass="yes">
                 <li><a href="#what">What We Do</a></li>
                 <li><a href="#how">How We Do</a></li>
                 <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
         <!-- <div class="col-md-3 col-sm-3 text-right fh5co-link-wrap">
             <ul class="fh5co-special" data-offcanvass="yes">
-                <li><a href="#connect" class="call-to-action" style="margin-top: 8px;">Connect Us</a></li>
+                <li><a href="#contact" class="call-to-action" style="margin-top: 8px;">contact Us</a></li>
             </ul>
         </div> -->
     </div>
@@ -36,9 +37,9 @@
             <div class="row">
                 <div class="col-md-push-6 col-md-6 full-height js-full-height" style="height: 918px;">
                     <div class="fh5co-cover-intro">
-                        <h1 class="cover-text-lead">Start With No Borders</h1>
-                        <h2 class="cover-text-sublead">Kicking-off a new venture in China.<br> Linkick, your partner for transnational projects.</h2>
-                        <p><a href="#connect" class="btn btn-outline btn-lg wow fadeInUp">Connect Us</a></p>
+                        <h1 class="cover-text-lead">START WITH NO BORDERS</h1>
+                        <h2 class="cover-text-sublead" style="text-transform: uppercase;">Kicking-off a new venture in China<br> Linkick, your partner for transnational projects</h2>
+                        <p><a href="#contact" class="btn btn-outline btn-lg wow fadeInUp">contact Us</a></p>
                     </div>
                 </div>
             </div>
@@ -53,7 +54,7 @@
         <div class="container">
             <div class="row p-b">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h3 class="fh5co-sub">A brief history</h3>
+                    <h3 class="fh5co-sub">A brief introduction</h3>
                     <h2 class="fh5co-heading">About Linkick</h2>
                     <p>Linkick is a team of makers from China and America. we believe a good creation is worth spreading worldwide, that even a smallest idea can lead to a chain reaction, that has the potential to reshape our universe. By respecting your idea and helping your promotion, we can harness technology to benefit more people with no borders. If everything wo do matters, how can your idea sustain the future?</p>
                 </div>
@@ -95,19 +96,19 @@
                     <div class="box to-animate">
                         <div class="icon colored-5"><span><i class="icon-hair-cross"></i></span></div>
                         <h3>Marketing promotion</h3>
-                        <p>We will carry out various marketing activities for your creation through our sales channels and media resources in China. You will be very easy to make good sales.</p>
+                        <p>We will carry out various marketing activities for your creation through our sales channels and media resources in China. You will be very easy to make good sales.<br><br></p>
                     </div>
                 </div>
                 <div class="col-md-4 wow fadeInUp">
                     <div class="box to-animate">
                         <div class="icon colored-3"><span><i class="icon-line-graph"></i></span></div>
                         <h3>Profit share</h3>
-                        <p>By respecting your creation from the bottom of heart, we will only take a little share of the proceed. The most profit will be paid to the original team.</p>
+                        <p>By respecting your creation from the bottom of heart, we will only take a little share of the proceed. The most profit will be paid to the original team. <br> <br><br></p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-4"><span><i class="icon-landline"></i></span></div>
                         <h3>After-sales service</h3>
-                        <p>We will provide after-sales service for every product instead of the original team. The border and the language will be no longer barrier.</p>
+                        <p>We will provide after-sales service for every product instead of the original team. The border and the language will be no longer barrier.<br><br> <br></p>
                     </div>
                 </div>
             </div>
@@ -298,7 +299,7 @@
 
 
 
-<section id="connect">
+<section id="contact">
 <div class="fh5co-footer-style-1">
     <div class="fh5co-subscribe" style="background-image: url(images/full_4.jpg);">
         <div class="fh5co-overlay"></div>

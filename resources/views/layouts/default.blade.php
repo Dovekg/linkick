@@ -59,10 +59,6 @@
 		.fh5co-footer-style-1 .fh5co-footer-inner .fh5co-logo {
 		     margin-bottom: 0; 
 		}
-
-		.fh5co-content-style-10 {
-		    background: #E2E2E2;
-		}
 		.fh5co-content-style-10 h2 {
 		     margin-top: 0px; 
 		    color: #1784fb;
@@ -70,6 +66,14 @@
 
 		.partner-logo {
 			margin-right: 60px;
+		}
+
+		.fh5co-content-style-10, .fh5co-features-style-3 {
+		    background: #F7F7F7;
+		}
+
+		.fh5co-content-style-5 {
+		    background: #fff;
 		}
 
 	</style>
