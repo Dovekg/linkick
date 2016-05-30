@@ -15,7 +15,8 @@ class CreateConnectsTable extends Migration
         Schema::create('connects', function (Blueprint $table) {
             $table->increments('id');
             $table->text('name')->nullable();
-            $table->text('email');
+            $table->text('email')->nullable();
+            $table->text('phone')->nullable();
             $table->text('message');
             $table->timestamps();
         });
