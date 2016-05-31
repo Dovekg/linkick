@@ -12,16 +12,16 @@ var elixir = require('laravel-elixir');
  */
 
 elixir(function(mix) {
-    mix.sass(['bootstrap.scss', 'cards.scss'], 'resources/assets/css/app.css')
+    mix.sass(['app.scss'], 'resources/assets/css/app.css')
     .styles([
     	'animate.css',
     	'icomoon.css',
     	'magnific-popup.css',
     	'owl.carousel.min.css',
     	'owl.theme.default.min.css',
-    	'easy-responsive-tabs.css',
         'sweetalert.css',
-    	'app.css'
+    	'app.css',
+        'extra.css'
     	])
     .scripts([
     	'jquery.min.js',
@@ -33,7 +33,6 @@ elixir(function(mix) {
 		'jquery.stellar.min.js',
 		'jquery.countTo.js',
 		'wow.min.js',
-		'easyResponsiveTabs.js',
         'sweetalert.min.js',
 		'main.js'
     	]);

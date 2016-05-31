@@ -3,28 +3,6 @@
 
 @section('content')
 
-<nav class="fh5co-nav-style-1" role="navigation" data-offcanvass-position="fh5co-offcanvass-left">
-    <div class="container">
-        <div class="col-md-3 col-sm-3 col-xs-12 fh5co-logo">
-            <a href="#" class="js-fh5co-mobile-toggle fh5co-nav-toggle"><i></i></a>
-            <a href="#"><img src="/images/linkick-white.png"  height="34px"></a>
-        </div>
-        <div class="col-md-9 col-sm-9 fh5co-link-wrap text-right">
-            <ul data-offcanvass="yes">
-                <li><a href="#what">What We Do</a></li>
-                <li><a href="#how">How We Do</a></li>
-                <li><a href="#team">Team</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </div>
-        <!-- <div class="col-md-3 col-sm-3 text-right fh5co-link-wrap">
-            <ul class="fh5co-special" data-offcanvass="yes">
-                <li><a href="#contact" class="call-to-action" style="margin-top: 8px;">contact Us</a></li>
-            </ul>
-        </div> -->
-    </div>
-</nav>
-
 <div class="fh5co-cover fh5co-cover-style-2 js-full-height" data-next="yes" style="height: 918px; background-image: url(&quot;images/head.jpg&quot;);">
          <span class="scroll-btn wow fadeInUp">
             <a href="#">
@@ -79,7 +57,7 @@
                     <div class="box to-animate">
                         <div class="icon colored-1"><span><i class="icon-shield"></i></span></div>
                         <h3>IPR Protection</h3>
-                        <p>Sign a contract to be our partner, we will freely help you to apply for patent/copyright/wed domain and other related certifications to protect your intellectual property rights in China.</p>
+                        <p>Sign a contract to be our partner, we will freely help your application for patent, copyright, wed domain and other related certifications to protect your intellectual property rights in China.</p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-6"><span><i class="icon-globe"></i></span></div>
@@ -103,12 +81,12 @@
                     <div class="box to-animate">
                         <div class="icon colored-3"><span><i class="icon-line-graph"></i></span></div>
                         <h3>Profit share</h3>
-                        <p>By respecting your creation from the bottom of heart, we will only take a little share of the proceed. The most profit will be paid to the original team. <br> <br><br></p>
+                        <p>By respecting your creation from the bottom of heart, we will only take a little share of the proceed. The most profit will be paid to the original team. <br><br></p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-4"><span><i class="icon-landline"></i></span></div>
                         <h3>After-sales service</h3>
-                        <p>We will provide after-sales service for every product instead of the original team. The border and the language will be no longer barrier.<br><br> <br></p>
+                        <p>We will provide after-sales service for every product instead of the original team. The border and the language will be no longer barrier.<br><br></p>
                     </div>
                 </div>
             </div>
@@ -124,50 +102,55 @@
         <div class="row p-b">
             <div class="col-md-6 col-md-offset-3 text-center">
                 <h2 class="fh5co-heading">How We Do</h2>
-                <!-- <p>Something should be added here.</p> -->
+                <p>Sometimes it is hard to cooperate transnational, so we made a plan, check it below.</p>
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
             <div class="fh5co-content-figure">
-                <div style="background-image: url(images/img_same_dimension_3.jpg);"></div>
+                <div style="background-image: url(images/steps/1.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
+                <h2>Signing Contract</h2>
                 <p>Sign a contract with us, in the treaty we pledge to protect your intellectual property rights in China and to pay you the most proceed.</p>
                 
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp fh5co-img-right">
             <div class="fh5co-content-figure">
-                <div style="background-image: url(images/img_same_dimension_2.jpg);"></div>
+                <div style="background-image: url(images/steps/2.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
-                <p>Provide us with related materials about your product, we will find Suitable foundry for you to decide to take cooperation or not.</p>
+                <h2>Implementing Work</h2>
+                <p>Provide us with related materials about your product, we will find suitable foundry for you to decide to take cooperation or not.</p>
                 
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
             <div class="fh5co-content-figure">
-                <div style="background-image: url(images/img_same_dimension_3.jpg);"></div>
+                <div style="background-image: url(images/steps/3.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
+            <h2>Launching Local Crow-funding</h2>
                 <p>With your authorization and suggestion, we will launch internet crow-funding and other sales activities in China.</p>
                 
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp fh5co-img-right">
             <div class="fh5co-content-figure">
-                <div style="background-image: url(images/img_same_dimension_2.jpg);"></div>
+                <div style="background-image: url(images/steps/4.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
+                <h2>Long-term Cooperation</h2>
                 <p>The promotion and sales activities achieve success, we pay you most of the proceeds and make another contract to be your long-term cooperation partner.</p>
                 
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
             <div class="fh5co-content-figure">
-                <div style="background-image: url(images/img_same_dimension_3.jpg);"></div>
+                <div style="background-image: url(images/steps/5.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
+            <h2>After-sale Service</h2>
                 <p> We provide after-sales service for consumers as your partner in China, and help your creation to Contact Investment and incubator.</p>
             </div>
         </div>
@@ -181,28 +164,44 @@
 
 
 <div class="fh5co-content-style-10 wow fadeInUp">
- <div class="container">
+
     <div class="row">
-       <div class="col-md-3 col-sm-3">
+       <div class="text-center"">
           <h2>Partners</h2>
+          <p></p>
        </div>
-       <div class="col-md-8 col-md-push-1 col-sm-8 col-sm-push-1">
-          <img src="/images/partners/jd.png" width="120px" class="partner-logo">
-          <img src="/images/partners/suning.png" width="120px" class="partner-logo">
+       <div class="col-md-12">
+            <div class="row">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><img src="/images/partners/jd.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/suning.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/taobao.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/weibo.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/weixin.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/toutiao.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/baijia.png" width="120px"></div>
+                        <div class="swiper-slide"><img src="/images/partners/youku.png" width="120px"></div>
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+                
+                </div>
+            </div>
        </div>
     </div>
- </div>
 </div>
 
 
-
+ 
 <section id="team">
 <div class="fh5co-team-style-1 wow fadeInUp">
     <div class="container">
         <div class="row p-b">
             <div class="col-md-6 col-md-offset-3 text-center">
                 <h2 class="fh5co-heading">Meet the Crew</h2>
-                <p>The more creation, the less border. </p>
+                <p></p>
             </div>
         </div>
         <div class="row">
@@ -211,8 +210,8 @@
                     <img src="images/person_1.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Beth Glasgow</h3>
-                        <p>Founder, CEO</p>
+                        <h3>Cheng</h3>
+                        <p>Leader</p>
                     </div>
                 </a>
             </div>
@@ -221,8 +220,8 @@
                     <img src="images/person_2.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Rob Smith</h3>
-                        <p>Founder, COO</p>
+                        <h3>Long</h3>
+                        <p>Partner</p>
                     </div>
                 </a>
             </div>
@@ -232,8 +231,8 @@
                     <img src="images/person_3.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Mitch Silk</h3>
-                        <p>Project Manager</p>
+                        <h3>Tang</h3>
+                        <p>Designer</p>
                     </div>
                 </a>
             </div>
@@ -242,142 +241,16 @@
                     <img src="images/person_4.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Ian Stewart</h3>
-                        <p>Web Developer</p>
+                        <h3>Zhang</h3>
+                        <p>Marketing</p>
                     </div>
                 </a>
             </div>
             <div class="clearfix visible-sm-block"></div>
-            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
-                <a href="#" class="fh5co-person" style="background-image: url(images/person_5.jpg);">
-                    <img src="images/person_5.jpg" alt="Image" class="img-responsive sr-only">
-                    <div class="fh5co-overlay"></div>
-                    <div class="fh5co-text">
-                        <h3>Ben Straight</h3>
-                        <p>Web Designer</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
-                <a href="#" class="fh5co-person" style="background-image: url(images/person_6.jpg);">
-                    <img src="images/person_6.jpg" alt="Image" class="img-responsive sr-only">
-                    <div class="fh5co-overlay"></div>
-                    <div class="fh5co-text">
-                        <h3>Colleen Bass</h3>
-                        <p>Web Designer</p>
-                    </div>
-                </a>
-            </div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
-                <a href="#" class="fh5co-person" style="background-image: url(images/person_7.jpg);">
-                    <img src="images/person_7.jpg" alt="Image" class="img-responsive sr-only">
-                    <div class="fh5co-overlay"></div>
-                    <div class="fh5co-text">
-                        <h3>Chris Clark</h3>
-                        <p>Web Developer</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
-                <a href="#" class="fh5co-person" style="background-image: url(images/person_8.jpg);">
-                    <img src="images/person_8.jpg" alt="Image" class="img-responsive sr-only">
-                    <div class="fh5co-overlay"></div>
-                    <div class="fh5co-text">
-                        <h3>Nina Stellar</h3>
-                        <p>Accounting</p>
-                    </div>
-                </a>
-            </div>
-            <div class="clearfix visible-sm-block"></div>
+
         </div>
     </div>
 </div>
 </section>
-
-
-
-
-
-<section id="contact">
-<div class="fh5co-footer-style-1">
-    <div class="fh5co-subscribe" style="background-image: url(images/full_4.jpg);">
-        <div class="fh5co-overlay"></div>
-        <div class="container form wow fadeInUp">
-            <div class="row p-b">
-                <div class="col-md-6 col-md-offset-3 text-center">
-                    <h2 class="fh5co- heading">Contact us</h2>
-                    <p>Your idea has no borders.</p>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col-md-12">
-                    <form action="{{ route('connect.store') }}" method="post">
-                        {{ csrf_field() }}
-                        <div class="col-md-4">
-                            <div class="form-group">
-                                <i class="icon-user"></i>
-                                <label class="sr-only" for="footer-style-1-name">Name</label>
-                                <input type="text" name="Name" class="form-control" id="footer-style-1-name" placeholder="Your Name">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="form-group">
-                                <i class="icon-mail"></i>
-                                <label class="sr-only" for="footer-style-1-email">Email</label>
-                                <input type="email" name="email" class="form-control" id="footer-style-1-email" placeholder="Your Email">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="form-group">
-                                <i class="icon-phone"></i>
-                                <label class="sr-only" for="footer-style-1-email">Phone</label>
-                                <input type="phone" name="phone" class="form-control" id="footer-style-1-email" placeholder="Your Phone">
-                            </div>
-                        </div>
-                        <div class="col-md-12">
-                            <div class="form-group">
-                                <i class="icon-message"></i>
-                                <label class="sr-only" for="footer-style-1-message">message</label>
-                                <textarea class="form-control" name="message" id="footer-style-1-message" placeholder="Message"></textarea>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-md-offset-4">
-                            <button type="submit" class="btn btn-danger">Submit</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row fh5co-footer-inner wow fadeInUp">
-            <div class="col-md-5 col-sm-5">
-                <div class="fh5co-logo">
-                    <a href="#"><img src="/images/linkick-small.png" width="36px" style="vertical-align: super;"></a>
-                    <p class="copyright"><small>Chengdu Origeno Co., Ltd <br>
-                    No. 65 Kehua North Road, Chengdu <br>
-                    Tel: +86 028 85460838<br>© 2016. All Rights Reserved.</small></p>
-                </div>
-            </div>
-            
-            <div class="col-md-6 col-md-push-1 col-sm-6 col-sm-push-1">
-                <div class="row">
-                        <ul class="links pull-right" style="margin: 20px 0;">
-                            <li><a href="#what">What we do</a></li>
-                            <li><a href="#how">How we do</a></li>
-                            <li><a href="#team">Team</a></li>
-                            <li><a href="#contact">Contact</a></li>
-                        </ul>
-                </div>
-            </div>
-
-            
-        </div>
-    </div>
-</div>
-
-</section>
-
 
 @stop
