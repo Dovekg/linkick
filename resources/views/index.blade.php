@@ -210,8 +210,8 @@
                     <img src="images/person_1.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Cheng</h3>
-                        <p>Leader</p>
+                        <h3>Xincheng Cheng</h3>
+                        <p>Founder</p>
                     </div>
                 </a>
             </div>
@@ -220,8 +220,8 @@
                     <img src="images/person_2.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Long</h3>
-                        <p>Partner</p>
+                        <h3>Adam Grim</h3>
+                        <p>Marketing</p>
                     </div>
                 </a>
             </div>
@@ -231,7 +231,7 @@
                     <img src="images/person_3.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Tang</h3>
+                        <h3>Sheng Tang</h3>
                         <p>Designer</p>
                     </div>
                 </a>
@@ -241,7 +241,49 @@
                     <img src="images/person_4.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Zhang</h3>
+                        <h3>Bo Zhang</h3>
+                        <p>Marketing</p>
+                    </div>
+                </a>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
+                <a href="#" class="fh5co-person" style="background-image: url(images/person_5.jpg);">
+                    <img src="images/person_1.jpg" alt="Image" class="img-responsive sr-only">
+                    <div class="fh5co-overlay"></div>
+                    <div class="fh5co-text">
+                        <h3>Ann</h3>
+                        <p>Designer</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
+                <a href="#" class="fh5co-person" style="background-image: url(images/person_6.jpg);">
+                    <img src="images/person_2.jpg" alt="Image" class="img-responsive sr-only">
+                    <div class="fh5co-overlay"></div>
+                    <div class="fh5co-text">
+                        <h3>Chengfu Fang</h3>
+                        <p>SEO</p>
+                    </div>
+                </a>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
+                <a href="#" class="fh5co-person" style="background-image: url(images/person_7.jpg);">
+                    <img src="images/person_3.jpg" alt="Image" class="img-responsive sr-only">
+                    <div class="fh5co-overlay"></div>
+                    <div class="fh5co-text">
+                        <h3>Weijie Xiong</h3>
+                        <p>Finance</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 wow fadeInUp">
+                <a href="#" class="fh5co-person" style="background-image: url(images/person_8.jpg);">
+                    <img src="images/person_4.jpg" alt="Image" class="img-responsive sr-only">
+                    <div class="fh5co-overlay"></div>
+                    <div class="fh5co-text">
+                        <h3>Kelvin</h3>
                         <p>Marketing</p>
                     </div>
                 </a>
