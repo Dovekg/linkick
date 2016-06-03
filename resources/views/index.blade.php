@@ -34,11 +34,11 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h3 class="fh5co-sub">A brief introduction</h3>
                     <h2 class="fh5co-heading">About Linkick</h2>
-                    <p>Linkick is a team of makers from China and America. we believe a good creation is worth spreading worldwide, that even a smallest idea can lead to a chain reaction, that has the potential to reshape our universe. By respecting your idea and helping your promotion, we can harness technology to benefit more people with no borders. If everything wo do matters, how can your idea sustain the future?</p>
+                    <p>Linkick is a team of makers from China and America. We believe a good creation is worth spreading worldwide; that even a smallest idea can lead to a chain reaction. That reaction has the potential to reshape our universe. By respecting your idea and helping your promotion, we can harness technology and a global network to benefit more people across borders. If what you do matters, we help you expand and sustain into the future.</p>
                 </div>
             </div>
         </div>
-    </div>   
+    </div>
 </section>
 
 
@@ -49,7 +49,7 @@
             <div class="row p-b">
                 <div class="col-md-6 col-md-offset-3 text-center">
                     <h2 class="fh5co-heading">What we do</h2>
-                    <p>China, the biggest market, has the largest population and the fastest growing consumer, which makes the best choice of your abroad marketing.</p>
+                    <p>China is home to one fifth of the world’s population and, as a result, represents the most expansive and fastest growing consumer market on the planet! With affordable manufacturing and efficient and cost-effective shipping/distribution, in combination with a robust internet marketplace, China is the ideal location for you to continue to grow your successful business! With Linkick, we can guide you through the linguistic, legal and logistical issues as you take this next step.</p>
                 </div>
             </div>
             <div class="row">
@@ -57,42 +57,42 @@
                     <div class="box to-animate">
                         <div class="icon colored-1"><span><i class="icon-shield"></i></span></div>
                         <h3>IPR Protection</h3>
-                        <p>Sign a contract to be our partner, we will freely help your application for patent, copyright, wed domain and other related certifications to protect your intellectual property rights in China.</p>
+                        <p>We know that you put a lot of effort into your project and that you want to see your ideas protected. As your representative in China, Linkick can help you to apply for patents, copyrights, web domains and any other related certifications that will protect your intellectual property rights.</p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-6"><span><i class="icon-globe"></i></span></div>
                         <h3>Transnational crowd-funding</h3>
-                        <p>Provide us with related material about your creation, we will help you transform it to Chinese edition. Then we laugh internet crow-funding in china though our various marketing resources.</p>
+                        <p>We can help you to repeat your successful crowd-funding campaign here in China in order to eliminate the financial burden of growing overseas! Provide us with related material about your project, and, with our expertise in Chinese consumer behaviors and preferences, we will help you adapt a new version that will be well received in the Chinese marketplace. Next, with a number of marketing and crowd-funding tools at hand, we help you to promote your product.</p>
                     </div>
                 </div>
                 <div class="col-md-4 wow fadeInUp">
                     <div class="box to-animate">
                         <div class="icon colored-2"><span><i class="icon-location-pin"></i></span></div>
                         <h3>Local production</h3>
-                        <p>With your authorization, we will share Chinese production factories for your creation. The local production will greatly reduce the cost and avoid the high customs tariffs, and shorten the period of logistics.</p>
+                        <p>If you would like to explore options for production locally in China, Linkick can do that too! With your authorization, we will help you locate and contract production with suitable factories that can make your product to your specifications. When considering selling to Chinese consumers, the local production will greatly reduce the cost and avoid the high customs tariffs and shorten the distribution network.</p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-5"><span><i class="icon-hair-cross"></i></span></div>
                         <h3>Marketing promotion</h3>
-                        <p>We will carry out various marketing activities for your creation through our sales channels and media resources in China. You will be very easy to make good sales.<br><br></p>
+                        <p>Linkick are experts within Chinese marketing, particularly adept in cost-efficient internet marketing and promotions. We will carry out various marketing activities for your creation through our sales channels and media resources in China. We can assure that your product gets the attention of Chinese consumers and leads to health sales.<br><br></p>
                     </div>
                 </div>
                 <div class="col-md-4 wow fadeInUp">
                     <div class="box to-animate">
                         <div class="icon colored-3"><span><i class="icon-line-graph"></i></span></div>
                         <h3>Profit share</h3>
-                        <p>By respecting your creation from the bottom of heart, we will only take a little share of the proceed. The most profit will be paid to the original team. <br><br></p>
+                        <p>Linkick knows that you have poured your heart and soul, in addition to your substantial finances, into turning your idea into a real product. For this reason, you deserve the vast bulk of the profits to be earned in China. By respecting your creation from the bottom of heart, Linkick proposes a profit-sharing mechanism in which we only require a small portion of profits gained through your Chinese venture. Most of the money will go to you, the original team. </p>
                     </div>
                     <div class="box to-animate">
                         <div class="icon colored-4"><span><i class="icon-landline"></i></span></div>
                         <h3>After-sales service</h3>
-                        <p>We will provide after-sales service for every product instead of the original team. The border and the language will be no longer barrier.<br><br></p>
+                        <p>As a team made up of Chinese and Americans, Linkick has the ability to cross linguistic borders. We will provide after-sales service for every product sold in China, so that you do not have to. The border and the language will be no longer barrier.<br><br></p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    
+
 </section>
 
 
@@ -102,7 +102,7 @@
         <div class="row p-b">
             <div class="col-md-6 col-md-offset-3 text-center">
                 <h2 class="fh5co-heading">How We Do</h2>
-                <p>Sometimes it is hard to cooperate transnational, so we made a plan, check it below.</p>
+                <p>We know that, as a new or growing business, the idea of expanding overseas might seem ambitious or overwhelming. So we have devised a cooperative framework to streamline the process and take the stress out of going international.</p>
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
@@ -110,9 +110,9 @@
                 <div style="background-image: url(images/steps/1.jpg);"></div>
             </div>
             <div class="fh5co-content-description">
-                <h2>Signing Contract</h2>
-                <p>Sign a contract with us, in the treaty we pledge to protect your intellectual property rights in China and to pay you the most proceed.</p>
-                
+                <h2>Discussing a Contract</h2>
+                <p>After going over the details, we will sign a contract with you in which we outline all of the specifics of our cooperative partnership and guarantee to protect your intellectual property.</p>
+
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp fh5co-img-right">
@@ -121,8 +121,8 @@
             </div>
             <div class="fh5co-content-description">
                 <h2>Implementing Work</h2>
-                <p>Provide us with related materials about your product, we will find suitable foundry for you to decide to take cooperation or not.</p>
-                
+                <p>If you are interested in pursuing Chinese locally based production, we will set to work finding a suitable facility to make your product. After your approval, we can begin production.</p>
+
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
@@ -131,8 +131,8 @@
             </div>
             <div class="fh5co-content-description">
             <h2>Launching Local Crow-funding</h2>
-                <p>With your authorization and suggestion, we will launch internet crow-funding and other sales activities in China.</p>
-                
+                <p>With your authorization and suggestion, we will launch internet crowd-funding and other sales activities in China to raise money as the company grows.</p>
+
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp fh5co-img-right">
@@ -141,8 +141,8 @@
             </div>
             <div class="fh5co-content-description">
                 <h2>Long-term Cooperation</h2>
-                <p>The promotion and sales activities achieve success, we pay you most of the proceeds and make another contract to be your long-term cooperation partner.</p>
-                
+                <p>As promotion and sales activities achieve success, we pay you most of the proceeds and discuss another contract to become your long-term cooperative partner.</p>
+
             </div>
         </div>
         <div class="fh5co-content-item wow fadeInUp">
@@ -151,7 +151,7 @@
             </div>
             <div class="fh5co-content-description">
             <h2>After-sale Service</h2>
-                <p> We provide after-sales service for consumers as your partner in China, and help your creation to Contact Investment and incubator.</p>
+                <p> We provide after-sales service for consumers as your partner in China, and help your creation to attract further investment in order to continue to grow in the Chinese market.</p>
             </div>
         </div>
     </div>
@@ -186,7 +186,7 @@
                     <!-- Add Pagination -->
                     <div class="swiper-pagination"></div>
                 </div>
-                
+
                 </div>
             </div>
        </div>
@@ -194,7 +194,7 @@
 </div>
 
 
- 
+
 <section id="team">
 <div class="fh5co-team-style-1 wow fadeInUp">
     <div class="container">
@@ -220,7 +220,7 @@
                     <img src="images/person_2.jpg" alt="Image" class="img-responsive sr-only">
                     <div class="fh5co-overlay"></div>
                     <div class="fh5co-text">
-                        <h3>Adam Grim</h3>
+                        <h3>Adam Grimm</h3>
                         <p>Marketing</p>
                     </div>
                 </a>
