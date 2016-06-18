@@ -48,3 +48,18 @@ html, body, p {
 .swiper-slide:nth-child(3n) {
     width: 20%;
 }
+
+.fh5co-counter-style-2 .icon {
+     color: #fff; 
+     width: 97px; 
+     height: 97px; 
+    margin: 0 auto 30px auto;
+     text-align: center; 
+    position: relative;
+     border: none; 
+     border-radius: 0; 
+}
+.fh5co-counter-style-2 .fh5co-section-content-wrap {
+     height: 0px; 
+    width: 100%;
+    padding-bottom: 40px;

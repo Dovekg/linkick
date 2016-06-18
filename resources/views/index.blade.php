@@ -43,6 +43,10 @@
 
 
 
+
+
+
+
 <section id="what">
     <div class="fh5co-features-style-3 wow fadeInUp">
         <div class="container">
@@ -94,6 +98,54 @@
     </div>
 
 </section>
+
+
+<div class="fh5co-counter-style-2 animated" style="background: #337ab7;">
+    <div class="container">
+    <div class="row">
+        <div class="row" style="padding-top: 50px;color: #ffffff;">
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <h2 class="fh5co-heading wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;color: #fff;">Crow-funding Growth</h2>
+                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s; animation-name: fadeInUp;">Net increasing in last 7 days of the crowd-funding plateform.</p>
+            </div>
+        </div>
+    </div>
+        <div class="fh5co-section-content-wrap">
+                <div class="fh5co-section-content">
+                    <div class="row">
+                        <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            <div class="icon">
+                                <img src="/images/index/jd.png">
+                            </div>
+                            <span class="fh5co-counter js-counter" data-from="0" data-to="28" data-speed="5000" data-refresh-interval="50">$1330</span>
+                            
+                        </div>
+                        <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;">
+                            <div class="icon">
+                                <img src="/images/index/tb.png">
+                            </div>
+                            <span class="fh5co-counter js-counter" data-from="0" data-to="57" data-speed="5000" data-refresh-interval="50">$262</span>
+                        </div>
+                        <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.1s; animation-name: fadeInUp;">
+                            <div class="icon">
+                                <img src="/images/index/kk.png">
+                            </div>
+                            <span class="fh5co-counter js-counter" data-from="0" data-to="34023" data-speed="5000" data-refresh-interval="50">$233</span>
+                        </div>
+                        <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.1s; animation-name: fadeInUp;">
+                            <div class="icon">
+                                <img src="/images/index/gg.png">
+                            </div>
+                            <span class="fh5co-counter js-counter" data-from="0" data-to="34023" data-speed="5000" data-refresh-interval="50">$212</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            
+</div>
+
 
 
 <section id="how">
