@@ -117,26 +117,26 @@
                             <div class="icon">
                                 <img src="/images/index/jd.png">
                             </div>
-                            <span class="fh5co-counter js-counter" data-from="0" data-to="28" data-speed="5000" data-refresh-interval="50">$1330</span>
+                            <span class="fh5co-counter js-counter text-small">$13.3M</span>
                             
                         </div>
                         <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;">
                             <div class="icon">
                                 <img src="/images/index/tb.png">
                             </div>
-                            <span class="fh5co-counter js-counter" data-from="0" data-to="57" data-speed="5000" data-refresh-interval="50">$262</span>
+                            <span class="fh5co-counter js-counter">$2.62M</span>
                         </div>
                         <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.1s; animation-name: fadeInUp;">
                             <div class="icon">
                                 <img src="/images/index/kk.png">
                             </div>
-                            <span class="fh5co-counter js-counter" data-from="0" data-to="34023" data-speed="5000" data-refresh-interval="50">$233</span>
+                            <span class="fh5co-counter js-counter">$2.33M</span>
                         </div>
                         <div class="col-md-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.1s; animation-name: fadeInUp;">
                             <div class="icon">
                                 <img src="/images/index/gg.png">
                             </div>
-                            <span class="fh5co-counter js-counter" data-from="0" data-to="34023" data-speed="5000" data-refresh-interval="50">$212</span>
+                            <span class="fh5co-counter js-counter">$2.12M</span>
                         </div>
                     </div>
                 </div>

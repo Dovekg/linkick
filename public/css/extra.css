@@ -14,7 +14,7 @@ html, body, p {
 }
 
 .fh5co-features-style-3 .box {
-    min-height: 470px;
+    min-height: 500px;
 }
 
  .swiper-container {
@@ -63,3 +63,8 @@ html, body, p {
      height: 0px; 
     width: 100%;
     padding-bottom: 40px;
+}
+.fh5co-counter-style-2 .fh5co-counter {
+    color: #F1F1F1;
+    font-size: 24px;
+}
